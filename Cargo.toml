@@ -1,5 +1,5 @@
 [package]
-name = "version"
+name = "version-tool"
 version = "1.0.0"
 edition = "2024"
 authors = ["Carson 366602834@qq.com"]  # 作者
