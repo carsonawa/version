@@ -1,7 +1,11 @@
 [package]
 name = "version"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2024"
+authors = ["Carson 366602834@qq.com"]  # 作者
+description = "Version parser"   # 简短描述
+license = "MPL-2"
+repository = "https://github.com/carsonawa/version"  # 可选但推荐
 
 [dependencies]
 thiserror = "2.0.18"
